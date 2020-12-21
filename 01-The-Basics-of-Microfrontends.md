@@ -87,6 +87,46 @@
 
 <br/>
 
+### 006 Generating Products
+
+<br/>
+
+### 007 Some Background on Webpack
+
+<br/>
+
+### 008 A Touch More on Webpack
+
+<br/>
+
+### 009 Finishing the Product List
+
+    $ npm run start
+
+http://localhost:8081/
+
+<br/>
+
+![Application](/img/pic-m01-p11.png?raw=true)
+
+<br/>
+
+### 010 Scaffolding the Container
+
+<br/>
+
+    $ mkdir -p app1/client/container
+    $ cd app1/client/container
+    $ npm init -y
+
+<br/>
+
+    $ npm install html-webpack-plugin nodemon webpack webpack-cli webpack-dev-server
+
+    $ npm run start
+
+<br/>
+
 ---
 
 <br/>
