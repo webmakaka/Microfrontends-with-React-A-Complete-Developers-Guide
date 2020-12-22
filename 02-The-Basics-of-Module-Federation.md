@@ -2,9 +2,19 @@
 
 <br/>
 
-### [01 The Basics of Microfrontends](./01-The-Basics-of-Microfrontends.md)
+## 02 The Basics of Module Federation
 
-### [02 The Basics of Module Federation](./02-The-Basics-of-Module-Federation.md)
+<br/>
+
+### 011 Implementing Module Federation
+
+<br/>
+
+![Application](/img/pic-m02-p01.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p02.png?raw=true)
 
 <br/>
 

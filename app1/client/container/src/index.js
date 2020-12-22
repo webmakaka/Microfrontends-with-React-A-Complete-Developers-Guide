@@ -1,1 +1,3 @@
-console.log('Conatainer');
+import('./bootstrap');
+
+
