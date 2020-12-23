@@ -42,6 +42,10 @@
 
 <br/>
 
+### 026 [Optional] A Funny Gotcha
+
+<br/>
+
 ---
 
 <br/>

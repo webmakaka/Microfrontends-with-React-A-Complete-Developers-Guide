@@ -8,6 +8,8 @@
 
 ### [03 Sharing Dependencies Between Apps](./03-Sharing-Dependencies-Between-Apps.md)
 
+### [04 Linking Multiple Apps Together](./04-Linking-Multiple-Apps-Together.md)
+
 <br/>
 
 ---
