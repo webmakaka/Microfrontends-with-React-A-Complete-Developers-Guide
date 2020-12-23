@@ -26,7 +26,7 @@
 
 <br/>
 
-### 030 Dependency Files
+### 030 [File] Dependency Files
 
 <br/>
 
@@ -50,6 +50,18 @@
 
     $ cd app2/marleting
     $ npm start
+
+<br/>
+
+### 035 Wiring Up React
+
+<br/>
+
+### [File] 036 Marketing Components
+
+<br/>
+
+### 037 Adding the Pricing and Landing Pages
 
 <br/>
 
