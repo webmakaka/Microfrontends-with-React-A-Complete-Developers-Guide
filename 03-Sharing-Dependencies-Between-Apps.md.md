@@ -2,11 +2,19 @@
 
 <br/>
 
-### [01 The Basics of Microfrontends](./01-The-Basics-of-Microfrontends.md)
+## 03 Sharing Dependencies Between Apps
 
-### [02 The Basics of Module Federation](./02-The-Basics-of-Module-Federation.md)
+<br/>
 
-### [03 Sharing Dependencies Between Apps](./03-Sharing-Dependencies-Between-Apps.md)
+### 018 Using Shared Modules
+
+<br/>
+
+![Application](/img/pic-m03-p01.png?raw=true)
+
+<br/>
+
+### 019 Async Script Loading
 
 <br/>
 
