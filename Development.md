@@ -10,6 +10,8 @@
 
 ### [04 Linking Multiple Apps Together](./04-Linking-Multiple-Apps-Together.md)
 
+### [05 Generic Ties Between Projects](./05-Generic-Ties-Between-Projects.md)
+
 <br/>
 
 ---
