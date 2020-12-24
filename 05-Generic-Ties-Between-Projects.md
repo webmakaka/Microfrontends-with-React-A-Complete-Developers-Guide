@@ -18,6 +18,14 @@
 
 <br/>
 
+### 039 Assembling the Container
+
+<br/>
+
+![Application](/img/pic-m05-p03.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
