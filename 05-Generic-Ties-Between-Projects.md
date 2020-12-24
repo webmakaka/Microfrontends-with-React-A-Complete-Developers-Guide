@@ -34,6 +34,18 @@
 
 <br/>
 
+### 041 Why Import the Mount Function
+
+<br/>
+
+### 042 Generic Integration
+
+<br/>
+
+![Application](/img/pic-m05-p05.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
