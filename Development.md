@@ -12,6 +12,8 @@
 
 ### [05 Generic Ties Between Projects](./05-Generic-Ties-Between-Projects.md)
 
+### [06 Implementing a CICD Pipeline](./06-Implementing-a-CICD-Pipeline.md)
+
 <br/>
 
 ---
