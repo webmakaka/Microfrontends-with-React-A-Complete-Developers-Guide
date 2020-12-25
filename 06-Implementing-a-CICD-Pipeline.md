@@ -33,6 +33,22 @@
 
 <br/>
 
+### 050 Understanding CI/CD Pipelines
+
+<br/>
+
+![Application](/img/pic-m06-p02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m06-p03.png?raw=true)
+
+<br/>
+
+### 051 Creating the Container Action
+
+<br/>
+
 ---
 
 <br/>
