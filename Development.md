@@ -16,6 +16,8 @@
 
 ### [07 Deployment to Amazon Web Services](./07-Deployment-to-Amazon-Web-Services.md)
 
+### [08 Microfrontend-Specific AWS Config](./08-Microfrontend-Specific-AWS-Config.md)
+
 <br/>
 
 ---
