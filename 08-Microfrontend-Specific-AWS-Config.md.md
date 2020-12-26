@@ -24,6 +24,32 @@ AWS_DISTRIBUTION_ID
 
 <br/>
 
+### 063 Successful Invalidation
+
+<br/>
+
+### 064 Setting Up the Marketing Deployment
+
+<br/>
+
+### 065 Reminder on the Production Domain
+
+AWS -> CloudFront -> Get Domain Name
+
+<br/>
+
+GitHub -> Microfrontends-with-React-A-Complete-Developers-Guide -> Settings -> Secrets -> New Secret
+
+<br/>
+
+PRODUCTION_DOMAIN: https://${domain-name}
+
+<br/>
+
+### 066 Running the Deployment
+
+<br/>
+
 ---
 
 <br/>
