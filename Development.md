@@ -14,6 +14,8 @@
 
 ### [06 Implementing a CICD Pipeline](./06-Implementing-a-CICD-Pipeline.md)
 
+### [07 Deployment to Amazon Web Services](./07-Deployment-to-Amazon-Web-Services.md)
+
 <br/>
 
 ---

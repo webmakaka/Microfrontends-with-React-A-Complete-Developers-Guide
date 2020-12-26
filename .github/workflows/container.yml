@@ -7,7 +7,7 @@ on:
     paths:
       - 'app2/client/container/**'
 
-default:
+defaults:
   run:
     working-directory: app2/client/container
 
