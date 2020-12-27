@@ -18,6 +18,8 @@
 
 ### [08 Microfrontend-Specific AWS Config](./08-Microfrontend-Specific-AWS-Config.md)
 
+### [09 Handling CSS in Microfrontends](./09-Handling-CSS-in-Microfrontends.md)
+
 <br/>
 
 ---

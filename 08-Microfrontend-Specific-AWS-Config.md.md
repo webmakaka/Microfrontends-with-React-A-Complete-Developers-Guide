@@ -54,6 +54,14 @@ PRODUCTION_DOMAIN: https://${domain-name}
 
 <br/>
 
+![Application](/img/pic-m08-p01.png?raw=true)
+
+<br/>
+
+### 068 [Optional] A Production-Style Workflow
+
+<br/>
+
 ---
 
 <br/>
