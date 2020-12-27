@@ -12,6 +12,26 @@
 
 ### 070 Adding a Header
 
+<br/>
+
+### 071 Issues with CSS in Microfrontends
+
+<br/>
+
+### 072 CSS Scoping Techniques
+
+<br/>
+
+### 073 Understanding CSS in JS Libraries
+
+<br/>
+
+### 074 So Whats the Bug
+
+<br/>
+
+### 075 Fixing Class Name Collisions
+
 ---
 
 <br/>
