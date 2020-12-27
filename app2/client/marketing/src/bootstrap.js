@@ -6,7 +6,9 @@ import App from './App';
 const mount = (el, { onNaviagate }) => {
   const history = createMemoryHistory();
 
-  history.listen(onNaviagate);
+  if (onNaviagate) {
+    history.listen(onNaviagate);
+  }
 
   ReactDOM.render(<App history={history} />, el);
 };
@@ -15,7 +17,7 @@ if (process.env.NODE_ENV === 'development') {
   const devRoot = document.querySelector('#_marketing-dev-root');
 
   if (devRoot) {
-    mount(devRoot);
+    mount(devRoot, {});
   }
 }
 
