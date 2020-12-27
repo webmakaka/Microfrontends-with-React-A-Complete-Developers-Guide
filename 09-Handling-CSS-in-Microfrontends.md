@@ -32,6 +32,16 @@
 
 ### 075 Fixing Class Name Collisions
 
+<br/>
+
+### 076 Verifying the Fix
+
+<br/>
+
+![Application](/img/pic-m09-p01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>

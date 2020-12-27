@@ -20,6 +20,8 @@
 
 ### [09 Handling CSS in Microfrontends](./09-Handling-CSS-in-Microfrontends.md)
 
+### [10 Implementing Multi-Tier Navigation](./10-Implementing-Multi-Tier-Navigation.md)
+
 <br/>
 
 ---
