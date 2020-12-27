@@ -54,6 +54,30 @@
 
 <br/>
 
+### 082 Why the Strange Results
+
+<br/>
+
+### 083 Communication Between Apps
+
+<br/>
+
+![Application](/img/pic-m10-p08.png?raw=true)
+
+<br/>
+
+### 084 Communicating Through Callbacks
+
+<br/>
+
+![Application](/img/pic-m10-p09.png?raw=true)
+
+<br/>
+
+### 085 Syncing History Objects
+
+<br/>
+
 ---
 
 <br/>
