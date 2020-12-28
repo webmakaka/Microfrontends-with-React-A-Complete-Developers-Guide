@@ -36,6 +36,12 @@ http://localhost:8082/auth/signup/
 
 <br/>
 
+### 094 Integrating Auth into the Container
+
+<br/>
+
+![Application](/img/pic-m11-p03.png?raw=true)
+
 <br/>
 
 ---
