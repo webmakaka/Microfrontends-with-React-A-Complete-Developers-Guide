@@ -10,6 +10,22 @@
 
 <br/>
 
+### 106 A Touch More Config
+
+<br/>
+
+### 107 [File] Component Files
+
+<br/>
+
+### 108 Showing the Dashboard
+
+<br/>
+
+![Application](/img/pic-m13-p01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
