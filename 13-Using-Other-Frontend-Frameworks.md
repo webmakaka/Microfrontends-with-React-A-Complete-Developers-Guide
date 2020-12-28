@@ -42,6 +42,22 @@
 
 <br/>
 
+### 112 Verifying Deployment
+
+<br/>
+
+![Application](/img/pic-m13-p03.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m13-p04.png?raw=true)
+
+<br/>
+
+### 113 Wrapup
+
+<br/>
+
 ---
 
 <br/>
