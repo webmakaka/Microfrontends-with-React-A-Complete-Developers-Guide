@@ -26,6 +26,14 @@
 
 <br/>
 
+### 109 Integration with the Container
+
+<br/>
+
+![Application](/img/pic-m13-p02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
