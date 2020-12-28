@@ -24,6 +24,8 @@
 
 ### [11 Performance Considerations](./11-Performance-Considerations.md)
 
+### [12 Authentication in Microfrontends](./12-Authentication-in-Microfrontends.md)
+
 <br/>
 
 ---
