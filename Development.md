@@ -22,6 +22,8 @@
 
 ### [10 Implementing Multi-Tier Navigation](./10-Implementing-Multi-Tier-Navigation.md)
 
+### [11 Performance Considerations](./11-Performance-Considerations.md)
+
 <br/>
 
 ---
