@@ -10,6 +10,32 @@
 
 <br/>
 
+### [Files] 090 Component Files
+
+<br/>
+
+### 091 Adding Signin and Signup Forms
+
+<br/>
+
+### 092 A Deeper Dive on PublicPath
+
+<br/>
+
+### 093 Last Time for PublicPath
+
+http://localhost:8082/auth/signup/
+
+<br/>
+
+![Application](/img/pic-m11-p01.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m11-p02.png?raw=true)
+
+<br/>
+
 <br/>
 
 ---
