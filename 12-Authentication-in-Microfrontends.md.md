@@ -38,6 +38,10 @@
 
 <br/>
 
+![Application](/img/pic-m12-p02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>

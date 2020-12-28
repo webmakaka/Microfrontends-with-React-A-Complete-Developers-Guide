@@ -26,6 +26,8 @@
 
 ### [12 Authentication in Microfrontends](./12-Authentication-in-Microfrontends.md)
 
+### [13 Using Other Frontend Frameworks](./13-Using-Other-Frontend-Frameworks.md)
+
 <br/>
 
 ---
