@@ -52,6 +52,10 @@ http://localhost:8082/auth/signup/
 
 <br/>
 
+### 097 Adding a Loading Bar
+
+<br/>
+
 ---
 
 <br/>
