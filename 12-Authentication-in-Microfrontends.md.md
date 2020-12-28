@@ -22,6 +22,14 @@
 
 <br/>
 
+### 101 Communicating Authentication State
+
+<br/>
+
+### 102 Allowing Signout
+
+<br/>
+
 ---
 
 <br/>
